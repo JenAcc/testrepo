@@ -1,0 +1,52 @@
+body { 
+  
+  margin: 4%  auto  20% auto;
+  /* background: lightblue;*/
+     
+    }
+    
+
+h4{ font-family: arial, sans-serif;/*elerhetosegek*/
+  border-collapse: collapse;
+  }
+  
+  
+/*Araink*/
+h3{font-family: 'Courier New', Courier, monospace; font-size: 300%; text-align: center; margin: 0  auto  0 auto;  padding: 40px;}
+ 
+#kepes{ text-align:justify;
+border-collapse: collapse;
+
+}
+
+
+table{    
+        
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 50%;
+        margin: 0  auto  10% auto;
+       
+        
+      }
+      #arak tr {
+       
+        border-collapse: collapse;
+        width: 50%;
+      
+      }
+      #arak th {
+                text-align: center;
+                     
+      }
+      #arak tr:nth-child(even){background-color: #f2f2f6;}/*csikos tablazat*/
+        #arak tr:hover {background-color: #ddd;}
+      
+      #arak td, #arak th {
+        border: 1px solid rgb(8, 8, 8);
+        padding: 20px;
+           
+      }
+ 
+     
+
