@@ -14,10 +14,17 @@ h4{ font-family: arial, sans-serif;/*elerhetosegek*/
 /*Araink*/
 h3{font-family: 'Courier New', Courier, monospace; font-size: 300%; text-align: center; margin: 0  auto  0 auto;  padding: 40px;}
  
-#kepes{ text-align:justify;
-border-collapse: collapse;
+#kepes{ text-align:justify ;/*bemutatkozó szöveg*/
+/*border-collapse: collapse;*/
 
 }
+
+
+/*logo*/
+img{align-self:left ;}
+ 
+
+
 
 
 table{    
