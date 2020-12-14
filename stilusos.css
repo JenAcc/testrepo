@@ -1,7 +1,7 @@
 body { 
   
-  margin: 4%  auto  20% auto;
-  /* background: lightblue;*/
+  margin: 4%  6%  20% 6%;
+   background: lightblue;
      
     }
     
@@ -10,29 +10,40 @@ h4{ font-family: arial, sans-serif;/*elerhetosegek*/
   border-collapse: collapse;
   }
   
+ /*kép+ szöveg*/
+ img{
+ 	float:left;
+	margin-right:5%;
+	}
+	
+.container{
+	display: inline-block;
+	 text-align:justify;
+	 stlye: responsible;
+	 padding: 10px;}
+
+
+
+
   
 /*Araink*/
-h3{font-family: 'Courier New', Courier, monospace; font-size: 300%; text-align: center; margin: 0  auto  0 auto;  padding: 40px;}
+h3{font-family: 'Courier New', Courier, monospace;
+ font-size: 300%; 
+ text-align: center;
+ padding: 40px;
+ margin-top: 20%;
  
-#kepes{ text-align:justify ;/*bemutatkozó szöveg*/
-/*border-collapse: collapse;*/
-
-}
-
-
-/*logo*/
-img{align-self:left ;}
+ }
  
 
-
-
-
-table{    
+table{
+    
         
         font-family: arial, sans-serif;
         border-collapse: collapse;
-        width: 50%;
-        margin: 0  auto  10% auto;
+        width: 80%;
+        margin: 0  10%  10% 10%;
+		align: middle;
        
         
       }
@@ -55,5 +66,3 @@ table{
            
       }
  
-     
-
