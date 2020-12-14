@@ -14,14 +14,15 @@ h4{ font-family: arial, sans-serif;/*elerhetosegek*/
  img{
  	float:left;
 	margin-right:5%;
-	 margin-bottom:10% 
+	 margin-bottom:20% 
 	}
 	
 .container{
 	display: inline-block;
 	 text-align:justify;
 	 stlye: responsible;
-	 padding: 10px;}
+	 padding: 10px;
+	class:lh-lg;}
 
 
 
