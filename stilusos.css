@@ -1,8 +1,6 @@
 body { 
   
-  margin: 4%  6%  20% 6%;
-
-     
+  margin: 4%  6%  20% 6%;     
     }
     
 
@@ -14,7 +12,9 @@ h4{ font-family: arial, sans-serif;/*elerhetosegek*/
  img{
  	float:left;
 	margin-right:5%;
-	 margin-bottom:5% 
+	 margin-top:-5% ;
+	 margin-bottom: 3%;
+	
 	}
 	
 .container{
@@ -22,11 +22,8 @@ h4{ font-family: arial, sans-serif;/*elerhetosegek*/
 	 text-align:justify;
 	 stlye: responsible;
 	 padding: 15px;
-	 line-height: 220% /* nagy sorköz*/
+	 line-height: 220%; /*nagy sorköz*/
 	}
-
-
-
 
   
 /*Araink*/
@@ -34,13 +31,9 @@ h3{font-family: 'Courier New', Courier, monospace;
  font-size: 300%; 
  text-align: center;
  padding: 10px;
-
+  }
  
- }
- 
-
-table{
-    
+table{   
         
         font-family: arial, sans-serif;
         border-collapse: collapse;
@@ -48,8 +41,7 @@ table{
         margin: 0  10%  10% 10%;
 		align: middle;
        
-        
-      }
+              }
       #arak tr {
        
         border-collapse: collapse;
