@@ -6,6 +6,11 @@ body {
 
 h4{ font-family: arial, sans-serif;/*elerhetosegek*/
   border-collapse: collapse;
+	@media only screen and (max-width: 640px) {
+.click-mobile {
+font-size: 22px;
+}
+
   }
   
  /*kép+ szöveg*/
