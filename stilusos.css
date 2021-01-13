@@ -1,49 +1,50 @@
-body { 
+body{			
   
-  margin: 4%  6%  20% 6%; 
+  margin: 2%  6%  	10% 6%; 
   background-color: #cccccc;
   background-image: linear-gradient(white 37%  , lightblue );
     }
     
+	
+   
 
-h4{ font-family: arial, sans-serif;/*elerhetosegek*/
-  border-collapse: collapse;
-   line-height: 200%; 
+
+.huba{/*elerhetosegek*/
+	text-align:center;
+	font-family: arial, sans-serif;
+ 	border-collapse: collapse;
+   	line-height: 160%; 
     padding-top: 1%; 
 	padding-bottom:10%;
    font-size: 150% ;
-  }
-  
- 
-  
- /*kép+ szöveg*/
+}
+/*kép+ szöveg*/
  img{
  	float:left;
 	margin-right:5%;
-	 margin-top:-5% ;
-	 margin-bottom: 3%;
+	 margin-top:-8% ;
+	 margin-bottom: 5%;
+	
 	
 	}
-	
-.container{
+	.cont{
 	display: inline-block;
 	 text-align:justify;
-	 stlye: responsible;
+	 style: responsible;
 	 padding: 15px;
+	 font-family:comic sans MS, arial;
 	 line-height: 220%; /*nagy sorköz*/
 	}
 
-  
 /*Araink*/
-h3{font-family: 'Courier New', Courier, monospace;
- font-size: 300%; 
+h3{font-family:  comic sans MS,currier, monospace;
+ font-size: 320%; 
  text-align: center;
  padding: 10px;
   }
- 
-table{   
+ table{   
         
-        font-family: arial, sans-serif;
+        font-family: sans-serif, arial, ;
         border-collapse: collapse;
         width: 80%;
         margin: 0  10%  10% 10%;
@@ -69,3 +70,4 @@ table{
            
       }
  
+	
