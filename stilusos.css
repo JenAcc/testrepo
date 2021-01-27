@@ -11,7 +11,7 @@ body{
 
 .huba{/*elerhetosegek*/
 	text-align:center;
-	font-family: arial, sans-serif;
+	font-family: arial;
  	border-collapse: collapse;
    	line-height: 160%; 
     padding-top: 1%; 
@@ -32,19 +32,19 @@ body{
 	 text-align:justify;
 	 style: responsible;
 	 padding: 15px;
-	 font-family:comic sans MS, arial;
+	 font-family: arial;
 	 line-height: 220%; /*nagy sorköz*/
 	}
 
 /*Araink*/
-h3{font-family:  comic sans MS,currier, monospace;
+h3{font-family: currier, monospace;
  font-size: 320%; 
  text-align: center;
  padding: 10px;
   }
  table{   
         
-        font-family: sans-serif, arial, ;
+        font-family: arial, ;
         border-collapse: collapse;
         width: 80%;
         margin: 0  10%  10% 10%;
